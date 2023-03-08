@@ -7,7 +7,7 @@ import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
-
+// import { useInView } from "react-intersection-observer";
 const ProjectCard = ({
   index,
   name,
