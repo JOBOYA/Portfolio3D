@@ -1,3 +1,5 @@
+
+// Import all icons from the assets folder
 import {
   mobile,
   backend,
