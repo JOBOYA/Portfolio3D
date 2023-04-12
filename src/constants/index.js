@@ -19,7 +19,7 @@ import {
   koliving,
   studi,
   
-  antique,
+  antiques,
   koli,
   photo,
   threejs,
@@ -185,7 +185,7 @@ const projects = [
         color: "violet-gradient",
       },
     ],
-    image: antique,
+    image: antiques,
     source_code_link: "https://github.com/JOBOYA/Le_Quai_Antique",
   },
   {
