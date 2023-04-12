@@ -24,7 +24,7 @@ import threejs from "./tech/threejs.svg";
 import koliving from "./company/koliving.png";
 import studi from "./company/studi.png";
 
-import antique from "./antique.png";
+import antiques from "./antiques.png";
 import koli from "./koli.png";
 import photo from "./photo.png";
 
@@ -51,7 +51,7 @@ export {
   threejs,
   koliving,
   studi,
-  antique,
+  antiques,
   koli,
   photo,
 };
